@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Wilson-Library-4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Desc.": "Wilson Library!" }, "geometry": { "type": "Point", "coordinates": [ -79.049703798016353, 35.909432852054081 ] } },
+{ "type": "Feature", "properties": { "id": 1, "Desc.": "Wilson Library" }, "geometry": { "type": "Point", "coordinates": [ -8799771.358964283019304, 4288165.536121750250459 ] } }
+]
+}
